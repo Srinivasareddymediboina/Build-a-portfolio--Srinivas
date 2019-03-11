@@ -1,4 +1,3 @@
-# Build-a-portfolio--Srinivas
 Project 1: 
 Build a Portfolio Site
 
@@ -8,12 +7,21 @@ Build a Portfolio Site project,
 ##part of the Udacity [Full Stack Web Developer
 Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004).
 
-##What it is and does A Webpage that displays a responsive page. 
+
+##What it is and does
+
+A Webpage that displays a responsive page. 
 ##Click on a program that will show a Bootstrap modal.
 
-##Required Browser needed to display this prjoect
+
+##Required
+
+Browser needed to display this prjoect
+
 
 ##Project contents
+
+
 This project consists for the following files:
 
 * index.html - main file to run this Build a portfolio project
